@@ -1,2 +1,5 @@
 *.bat
 *.cmd
+**/obj
+**/*.exe
+**/*.obj
